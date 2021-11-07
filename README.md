@@ -1,0 +1,7 @@
+- Hi, I’m Fernando Magdaleno Delgado, I started programming at the end of 2018, Estuedie C at Escuela 42 Madrid. At the beginning of 2019 I started developing Android mobile applications with Kotlin.
+- This repository contains all the public projects that I have developed for mobile devices. Currently I am focused on the development of Master / Detail applications adapted to current standards as a portfolio.
+- I’m currently developing an interesting private Android Kotlin project, with authentication through Firebase, remote database with Firebase, MVVM, ViewBinding, LiveData, Retrofit, Coroutines, Material Design and dependency injection. It will be published soon.
+- I develop a modern C++ game with a team, using unreal engine 5 with all its latest features
+- I’m currently learning advanced concepts and external libraries for Android (Hilt, Retrofit, OkHttp ...), in addition to learning the latest technologies (jetpack compose, github copilot)
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
